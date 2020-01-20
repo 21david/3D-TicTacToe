@@ -1,2 +1,2 @@
 # Event-Group-Project
-CodeDay with Computer Science friends
+CodeDay with Computer Science friends.
