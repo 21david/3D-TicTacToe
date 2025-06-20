@@ -7,11 +7,8 @@ A 3D Tic-Tac-Toe game implemented in Java.
 ### Option 1: Download and run the JAR (Fastest)
 1. [Download the `3DTicTacToe.jar` file](https://github.com/21david/3D-TicTacToe/raw/master/3DTicTacToe.jar) from this repository.
 2. **On macOS:**
-   - Double-clicking the JAR may show a warning that the app is from an unidentified developer.
-   - To run it:
-     1. Right click the JAR file and select **Open** if you see the option.
-     2. If not, go to **System Settings > Privacy & Security > Security** and allow the app to run.
-   - macOS may warn that the file is potentially malicious. This is expected for unsigned apps. You can safely allow it.
+   - Opening the JAR may show a warning that Apple could not verify that it is free of malware. This is expected for unsigned apps. You can safely allow it by following these steps.
+     - Go to **System Settings > Privacy & Security > Security** and look for "3DTicTacToe.jar" and click "Open Anyway".
 3. **On Windows:**
    - Double click the JAR file. If it doesn't run, make sure you have Java installed. You may need to right click and select **Open with > Java**.
 
@@ -23,11 +20,11 @@ A 3D Tic-Tac-Toe game implemented in Java.
      cd 3D-TicTacToe
      ```
 #### If you don't have Git:
-  1. Click the green **Code** button and select **Download ZIP**.
+  1. Click the green **Code** button and select **Download ZIP** at the bottom of the pop-up.
   2. Unzip the file and open the folder.
 
 #### Then compile and run the files.
-1. Make sure you have a JDK installed (Java 8 or later, see [these](https://www.freecodecamp.org/news/install-openjdk-free-java-multi-os-guide/?utm_source=chatgpt.com) or [these](https://www.geeksforgeeks.org/download-and-install-java-development-kit-jdk-on-windows-mac-and-linux/?utm_source=chatgpt.com) instructions).
+1. Make sure you have a JDK installed (Java 8 or later, if not, see [these](https://www.freecodecamp.org/news/install-openjdk-free-java-multi-os-guide/?utm_source=chatgpt.com) or [these](https://www.geeksforgeeks.org/download-and-install-java-development-kit-jdk-on-windows-mac-and-linux/?utm_source=chatgpt.com) instructions).
 2. Run these commands to comile and run:
    ```sh
    javac src/*.java -d bin
