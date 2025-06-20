@@ -6,6 +6,7 @@ A 3D Tic-Tac-Toe game implemented in Java.
 
 ### Option 1: Download and run the JAR (Fastest)
 1. [Download the `3DTicTacToe.jar` file](https://github.com/21david/3D-TicTacToe/raw/master/3DTicTacToe.jar) from this repository.
+   - Java (specifically a JRE - Java Runtime Environment) is needed to run this file. [Download it here](https://www.java.com/en/download) if necessary. (Note: Macs with Intel processors need the x86_64 version linked below the download button.)
 2. **On macOS:**
    - Opening the JAR may show a warning that Apple could not verify that it is free of malware. This is expected for unsigned apps. You can safely allow it by following these steps.
      - Go to **System Settings > Privacy & Security > Security** and look for "3DTicTacToe.jar" and click "Open Anyway".
