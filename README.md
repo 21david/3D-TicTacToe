@@ -5,7 +5,7 @@ A 3D Tic-Tac-Toe game implemented in Java.
 # Download and Run
 
 ### Option 1: Download and run the JAR (Fastest)
-1. [Download the `3DTicTacToe.jar` file](https://github.com/username/3D-TicTacToe/raw/master/3DTicTacToe.jar) from this repository.
+1. [Download the `3DTicTacToe.jar` file](https://github.com/21david/3D-TicTacToe/raw/master/3DTicTacToe.jar) from this repository.
 2. **On macOS:**
    - Double-clicking the JAR may show a warning that the app is from an unidentified developer.
    - To run it:
