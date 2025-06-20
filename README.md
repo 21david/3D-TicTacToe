@@ -2,6 +2,12 @@
 
 A 3D Tic-Tac-Toe game implemented in Java.
 
+
+# Screenshots
+![Screenshot 1](images/3d-tictactoe.png)
+![Screenshot 2](images/3d-tictactoe-2.png)
+
+
 # Download and Run
 
 ### Option 1: Download and run the JAR (Fastest)
@@ -37,9 +43,6 @@ Alternatively, load the `.java` files into any IDE that supports Java (for examp
 - Click any cell on any of the three panels to place your piece. The computer will immediately place its piece using AI.
 - The first player to get three in a row (in any direction, including 3D diagonals) wins!
 
-# Screenshots
-![Screenshot 1](images/3d-tictactoe.png)
-![Screenshot 2](images/3d-tictactoe-2.png)
 
 # Technologies
 - [**Java SE 8**](https://docs.oracle.com/javase/8/docs/api/)
